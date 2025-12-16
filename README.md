@@ -1,4 +1,8 @@
-# Diabetes Risks Predictions
+![Project Cover](resources/template.png)
+
+# Diabetes Risks Prediction
+
+## Business Overview
 
 ## Problem Statement
 
