@@ -1,13 +1,21 @@
-![Project Cover](resources/template.png)
+[![Project Cover](resources/template.png)](diabetes_risks_prediction.pdf)
 
 # Diabetes Risks Prediction
 
+
 ## Business Overview
+
 
 ## Problem Statement
 
-## Methodology
 
-## Results
+## Exploratory Data Analysis & Key Trends
 
-## Key Insights
+
+## Models Explored and Results
+
+
+## Dashboard Preview
+
+
+## Reflections & Lessons Learned
